@@ -1,3 +1,5 @@
+![CI/CD Pipeline](https://github.com/charvenswhales/taskapp/actions/workflows/ci.yml/badge.svg)
+
 # Team Task Manager
 
 A full-stack Team Task Manager application with a Kanban-style board. Built with Flask, React and PostgreSQL. Fully containerized with Docker.
